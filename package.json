@@ -1,0 +1,30 @@
+{
+  "name": "moringa-core-assignments",
+  "version": "1.0.0",
+  "description": "Herein is an SA2(Menu Restuarant)",
+  "main": "app.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "^4.16.2",
+    "path": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaggieBlanqx"
+  },
+  "keywords": [
+    "Moringa",
+    "School",
+    "Moringa",
+    "Core",
+    "Assignments",
+    "Menu",
+    "Restuarant",
+    "Daggie",
+    "Blanqx"
+  ],
+  "author": "Daggie Blanqx",
+  "license": "UNLICENSED"
+}
